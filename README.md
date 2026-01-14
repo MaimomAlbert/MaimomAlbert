@@ -3,7 +3,7 @@
 Data Scientist · ML Engineer — building production-ready models and data platforms that deliver measurable business impact.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maimom-albert/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:albertmaimom@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:albertmaimom4@gmail.com)
 [![Blog](https://img.shields.io/badge/-Blog-101010?logo=ghost&logoColor=white)](https://albert.maimom)
 
 ---
