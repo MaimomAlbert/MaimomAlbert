@@ -10,13 +10,13 @@ Data Scientist · ML Engineer — building production-ready models and data plat
 
 ### Snapshot
 - 🔬 Focus: Feature engineering, model deployment, MLOps, A/B testing, and explainability  
-- ⚙️ Tech: Python · Pandas · NumPy · scikit-learn · TensorFlow/PyTorch · SQL · Airflow · Docker · Kubernetes · MLflow · AWS/GCP  
+- ⚙️ Tech: Python · Pandas · NumPy · scikit-learn · TensorFlow/PyTorch · SQL · Airflow · Docker . Databrick · Kubernetes · MLflow · AWS/GCP  
 - 📈 Impact: Built production models that improved X metric by Y% and generated $Z in ARR (replace with your metrics)
 
 ---
 
 ### Featured Projects
-- **[ProjectName-1](https://github.com/your/repo1)** — End-to-end recommender: offline pipeline, model training, A/B rollout, +10% engagement. (Python, TensorFlow, Docker)  
+- **[LLM Finetuning,Qwen,smolvl]()** — End-to-end recommender: offline pipeline, model training, A/B rollout, +10% engagement. (Python, TensorFlow, Docker)  
 - **[ProjectName-2](https://github.com/your/repo2)** — Time-series forecasting for demand planning with automated retraining and monitoring. (Prophet/TF, Airflow)  
 - **[ProjectName-3](https://github.com/your/repo3)** — Interactive dashboard and model explainability notebooks demonstrating SHAP and counterfactuals. (Streamlit, SHAP)
 
