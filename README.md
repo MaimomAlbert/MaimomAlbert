@@ -95,6 +95,11 @@
 ## 🏆 Achievements
 
 * 🥇 Kaggle Competitions & Notebooks
+<img width="831" height="300" alt="image" src="https://github.com/user-attachments/assets/f56409c6-1a99-4073-8890-173ac7ef06c7" />
+  
+* Hackerrank
+ <img width="1067" height="526" alt="image" src="https://github.com/user-attachments/assets/ff25e5d7-20f4-43a3-a3a4-5f97fee06188" />
+
 * 🎤 Speaker / Workshop Contributor
 * ⭐ Open Source Contributions
 
