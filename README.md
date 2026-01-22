@@ -1,5 +1,5 @@
 
-# Hi, I’m Maimom Albert 👋
+ I’m Maimom Albert 👋
 Data Scientist · ML Engineer — building production-ready models and data platforms that deliver measurable business impact.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maimom-albert/)
@@ -13,14 +13,6 @@ Data Scientist · ML Engineer — building production-ready models and data plat
 - ⚙️ Tech: Python · Pandas · NumPy · scikit-learn · TensorFlow/PyTorch · SQL · Airflow · Docker . Databrick · Kubernetes · MLflow · AWS/GCP  
 - 📈 Impact: Built production models that improved X metric by Y% and generated $Z in ARR (replace with your metrics)
 
----
-
-### Featured Projects
-- **[LLM Finetuning,Qwen,smolvl]()** — End-to-end recommender: offline pipeline, model training, A/B rollout, +10% engagement. (Python, TensorFlow, Docker)  
-- **[ProjectName-2](https://github.com/your/repo2)** — Time-series forecasting for demand planning with automated retraining and monitoring. (Prophet/TF, Airflow)  
-- **[ProjectName-3](https://github.com/your/repo3)** — Interactive dashboard and model explainability notebooks demonstrating SHAP and counterfactuals. (Streamlit, SHAP)
-
----
 
 ### How I work
 1. Define product metric & success criteria (KPIs)  
@@ -42,3 +34,6 @@ Data Scientist · ML Engineer — building production-ready models and data plat
 ---
 
 Thanks for stopping by — want to see my portfolio/resume? DM or email me: albertmaimom4@gmail.com
+
+anguages and Tools:
+android arduino aws bash blender cplusplus css3 d3js docker figma firebase gcp git hadoop heroku html5 java kafka kibana kotlin kubernetes linux matlab mongodb mssql mysql opencv pandas postgresql postman python pytorch rabbitMQ scikit_learn seaborn sketch tensorflow zapier
