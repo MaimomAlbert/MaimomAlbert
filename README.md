@@ -5,7 +5,7 @@
 ## 👤 About Me
 
 * 🏢 **Role:** Data Scientist / ML Engineer
-* 🏫 **Affiliation:** University / Company
+* 🏫 **Affiliation:** NIT MANIPUR
 * 📍 **Location:** IMPHAL, INDIA
 * 🔬 **Interests:** Machine Learning, Deep Learning, AI Systems
 * ✍️ **Writing:** Medium | Technical Blogs
